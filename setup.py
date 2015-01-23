@@ -16,8 +16,6 @@ def read(*rnames):
 long_description = (
     read('README.txt')
     + '\n' +
-    read('js', 'readmore', 'test_chosen.txt')
-    + '\n' +
     read('CHANGES.txt'))
 
 setup(
