@@ -1,0 +1,2 @@
+recursive-include js/readmore *.txt
+include *.txt
