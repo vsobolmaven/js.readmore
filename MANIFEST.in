@@ -1,2 +1,3 @@
-recursive-include js *.py
+recursive-include js/readmore/resources *.*
+recursive-include js/readmore *.py
 include *.txt
